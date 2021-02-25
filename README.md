@@ -1,2 +1,2 @@
-# 411s21
-Notes for the RTU course "Telecommunications Software (RAE411)", SPRING 2021.
+# RAE411 SPRING 2021
+Notes & supplementaries for the RTU course "Telecommunications Software (RAE411)". 
